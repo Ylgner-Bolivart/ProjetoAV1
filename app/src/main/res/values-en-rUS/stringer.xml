@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevHeroApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_notice_login">18 new notifications</string>
+    <string name="label_notice_home">new notifications</string>
+    <string name="label_notice_home_user">%1$s new notifications</string>
+    <string name="email">E-mail</string>
+    <string name="text_welcome_home">Welcome back</string>
+    <string name="text_welcome_loguin">Welcome back, <b><font color="#2196F3">%1$s</font></b></string>
+    <string name="text_welcome">Welcome back</string>
+    <string name="text_welcome_user">Welcome back</string>
+    <string name="text_app_information">Step into a new lifestyle..</string>
+    <string name="password">Passoword</string>
+    <string name="label_logon">Login</string>
+    <string name="label_login">Login</string>
+    <string name="error">ERROR</string>
+    <string name="login">user logged</string>
+    <string name="pass_error">Invalid password</string>
+    <string name="email_error">Invalid email</string>
+    <string name="error_login">Check access data or register</string>
+    <string name="error_logon">All fields need to be filled in</string>
+    <string name="text_project_information">My projects:</string>
+    <string name="item_mail">teste@teste.com.br</string>
+    <string name="item_name">Trainer</string>
+    <string name="devhero_name">: <b><font color="#2196F3">%1$s</font></b></string>
+    <string name="user_name">Nome</string>
+    <string name="password_confirm">Confirm password</string>
+    <string name="text_account">Be healthy</string>
+    <string name="text_account_newuser">Registered Account</string>
+    <string name="text_app_information_account">Find a recreation center near your location</string>
+    <string name="pass_error_confirm">passwords do not match</string>
+    <string name="username_error">Invalid user name</string>
+</resources>
